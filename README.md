@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @utkarsh0908
+- 👋 Hi, I’m @utkarsh
 - 👀 I’m interested in WebDev and AndroidDev
 - 🌱 I’m currently learning DSA and backend using nodejs and mogodb
 - 💞️ I’m looking to collaborate on Frontend Projects
