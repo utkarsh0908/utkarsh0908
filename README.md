@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utkarsh
 - 👀 I’m interested in WebDev and AndroidDev
-- 🌱 I’m currently learning DSA and backend using nodejs and mogodb
+- 🌱 I’m currently learning DSA and backend using nodejs and mongodb
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me email at utkarshkvdranchi@gmail.com
 
